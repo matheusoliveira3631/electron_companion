@@ -1,0 +1,23 @@
+{
+  "name": "electron_companion",
+  "version": "1.0.0",
+  "description": "Electron based desktop companion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [
+    "desktop",
+    "companion",
+    "electron"
+  ],
+  "author": "DreamSavior",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^14.0.1"
+  },
+  "devDependencies": {
+    "electron-reloader": "^1.2.1"
+  }
+}
